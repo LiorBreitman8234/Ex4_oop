@@ -2,11 +2,7 @@
 ![GIF](https://github.com/LiorBreitman8234/Ex4_oop/blob/master/Client/picturs/pokemon.gif)
 
 ------------------------------------------------
-## Credits
 In this repository we present the fifth assignment of our OOP course as part of our B.sc in computer science. </br>
-Collaberators: </br>
-* Lior Breitman: 212733257 </br>
-* Talia Seada: 211551601 </br>
 
 ## Intro
 In this assignment we get a graph, a number of agents, and pokemons. The goal of the game is to collect as much pokemons as we can in the time given to each level (0-15) </br>
